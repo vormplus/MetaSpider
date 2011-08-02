@@ -1,0 +1,6 @@
+# rewrite /spider/ to spider.php
+# CSS Doesn't work :(
+
+#RewriteEngine on
+#RewriteBase /
+#RewriteRule ^spider spider.php
